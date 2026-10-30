@@ -111,7 +111,7 @@ Me apasiona desarrollar software, entender cómo funcionan las redes y convertir
 <div align="center">
 
 [![Correo](https://img.shields.io/badge/Correo-bpico3173@uta.edu.ec-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bpico3173@uta.edu.ec)
-[![GitHub](https://img.shields.io/badge/GitHub-TU_USUARIO-181717?style=for-the-badge&logo=github)](https://github.com/TU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-Korayma25-181717?style=for-the-badge&logo=github)](https://github.com/Korayma25)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Korayma_Pico-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_PERFIL) -->
 
 *⭐ Si te gusta mi trabajo, ¡deja una estrella en algún repo!*
